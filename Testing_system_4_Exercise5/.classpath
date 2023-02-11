@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry exported="true" kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER">
+		<attributes>
+			<attribute name="module" value="true"/>
+			<attribute name="limit-modules" value="java.se,java.smartcardio,jdk.accessibility,jdk.charsets,jdk.crypto.cryptoki,jdk.crypto.mscapi,jdk.editpad,jdk.hotspot.agent,jdk.httpserver,jdk.internal.vm.compiler,jdk.internal.vm.compiler.management,jdk.jartool,jdk.jcmd,jdk.jconsole,jdk.jshell,jdk.jsobject,jdk.jstatd,jdk.localedata,jdk.management.jfr,jdk.naming.dns,jdk.naming.rmi,jdk.net,jdk.sctp,jdk.security.auth,jdk.security.jgss,jdk.unsupported,jdk.unsupported.desktop,jdk.xml.dom,jdk.zipfs,jdk.javadoc,jdk.random,jdk.nio.mapmode,jdk.dynalink,jdk.jpackage"/>
+		</attributes>
+	</classpathentry>
+	<classpathentry kind="src" path="src"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>

@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<qualifiedTypeNameHistroy>
+    <fullyQualifiedTypeName name="com.vti.entity.Position.Pname"/>
+    <fullyQualifiedTypeName name="com.vti.entity.Student"/>
+    <fullyQualifiedTypeName name="com.VTI.entity.Staff"/>
+    <fullyQualifiedTypeName name="com.VTI.entity.Staff.Egender"/>
+    <fullyQualifiedTypeName name="java.lang.String"/>
+    <fullyQualifiedTypeName name="java.util.Scanner"/>
+    <fullyQualifiedTypeName name="java.lang.System"/>
+</qualifiedTypeNameHistroy>

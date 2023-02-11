@@ -1,0 +1,5 @@
+INDEX VERSION 1.131+C:\Users\letuh\OneDrive\Ta?i liê?u\VTI_Java\.metadata\.plugins\org.eclipse.jdt.core
+623334914.index
+1435947296.index
+3219260961.index
+1865797976.index
